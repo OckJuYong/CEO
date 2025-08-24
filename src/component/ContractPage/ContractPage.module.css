@@ -113,7 +113,7 @@ body {
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   display: flex;
   overflow: hidden;
-  height: 120px;
+  height: 150px;
 }
 .smallCard2 { cursor: pointer; }
 
