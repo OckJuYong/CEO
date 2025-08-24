@@ -123,13 +123,12 @@ body {
 .cardTitle2 { font-weight: 400; font-size: 14px; color: #1a1a1a; margin: 0 0 110% 0; }
 .cardText2 { font-weight: 600; font-size: 10px; color: #666; margin: 0; line-height: 1.3; }
 
-.Why { position: absolute; bottom: 5px; right: 5px; width: 70px; height: 100px; }
+.Why { position: absolute; bottom: 5px; right: 5px; width: 40%; height: auto; }
 
 /* 체크리스트 배경 체크 이미지 (항상 클릭 방해 X) */
 .checkWrapper {
   display: flex;
   position: absolute;
-  align-items: baseline;
   margin-top: 30%;
   padding-left: 45%;
   pointer-events: none;   /* 클릭 방해 제거 */
